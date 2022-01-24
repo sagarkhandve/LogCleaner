@@ -7,7 +7,6 @@
 
 ```shell
    git clone https://github.com/sagarkhandve/LogCleaner.git
-   ```
-```shell
+   
    Run application as administrator.
    ```
