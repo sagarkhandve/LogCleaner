@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license "Go to license section")
+
 ## LogCleaner
 #### Powerful LogCleaner For Windows Operating System.
 
